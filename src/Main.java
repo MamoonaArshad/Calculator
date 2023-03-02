@@ -11,7 +11,7 @@ public class Main {
 
 
         //we are initialising the variable
-        System.out.println(herAge);
+        System.out.println(now);
     }
 }
 
