@@ -13,6 +13,9 @@ public class Main {
     }
 }
 
+
+
+
 //there are two type: primitive and reference;
 //primtive types are used to store sumple variables like numbers, characters and booleans.
 //Reference types on the other hand are used to store more complicated objects like date or mail messages
