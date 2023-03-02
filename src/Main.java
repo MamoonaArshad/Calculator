@@ -7,8 +7,6 @@ public class Main {
         int herAge = myAge + 4;
         int viewsCount = 123456789;
         Date now  = new Date ();
-        now.getTime();
-
 
         //we are initialising the variable
         System.out.println(now);
